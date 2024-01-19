@@ -1,0 +1,87 @@
+Code,Organism,Method,Resolution,Uniprot
+1AB1,Crambe hispanica subsp. abyssinica,X-RAY DIFFRACTION,0.89,P01542
+1BHP,Triticum aestivum,X-RAY DIFFRACTION,1.7,P01543
+1BE2,Hordeum vulgare,SOLUTION NMR,,P07597
+1BWO,Triticum aestivum,X-RAY DIFFRACTION,2.1,P24296
+1DF6,Viola odorata,SOLUTION NMR,,P82230
+1ED0,Viscum album,SOLUTION NMR,,P01538
+1BH4,Chassalia parviflora,SOLUTION NMR,,P56871
+1DKC,Phytolacca americana,SOLUTION NMR,,P81418
+1BV2,Oryza sativa,SOLUTION NMR,,Q0IQK9
+1ENM,Urtica dioica,X-RAY DIFFRACTION,1.9,P11218
+1AFH,Zea mays,SOLUTION NMR,,P19656
+1GPT,Hordeum vulgare,SOLUTION NMR,,P20230
+1C01,Macadamia integrifolia,SOLUTION NMR,,P80915
+1K7T,Triticum aestivum,X-RAY DIFFRACTION,2.4,P10969
+1NBJ,Viola odorata,SOLUTION NMR,,P82230
+1R1F,Palicourea condensata,SOLUTION NMR,,P84645
+1GPS,Triticum turgidum,SOLUTION NMR,,P20158
+1T12,Nicotiana tabacum,SOLUTION NMR,,Q42952
+1JKZ,Pisum sativum,SOLUTION NMR,,P81929
+1NBL,Helleborus purpurascens,SOLUTION NMR,,P60057
+1ULK,Phytolacca americana,X-RAY DIFFRACTION,1.8,Q9AYP9
+1TI5,Vigna radiata,SOLUTION NMR,,Q6T418
+1WKX,Hevea brasiliensis,X-RAY DIFFRACTION,1.7,P02877
+1SIY,Vigna radiata var. radiata,SOLUTION NMR,,P83434
+1ZA8,Viola hederacea,SOLUTION NMR,,P84522
+1N4N,Petunia x hybrida,SOLUTION NMR,,Q8H6Q1
+2B38,Oldenlandia affinis,SOLUTION NMR,,P85175
+1ULN,Phytolacca americana,X-RAY DIFFRACTION,1.65,P83790
+1YP8,Viola tricolor,SOLUTION NMR,,P0C589
+2ALG,Prunus persica,X-RAY DIFFRACTION,2.3,P81402
+2ERI,Chassalia parviflora,SOLUTION NMR,,P56879
+2L2R,Echinochloa crus-galli,SOLUTION NMR,,NoUniprot
+2DKV,Oryza sativa Japonica Group,X-RAY DIFFRACTION,2.0,Q7DNA1
+2LB7,Triticum kiharae,SOLUTION NMR,,P85966
+2GJ0,Viola odorata,SOLUTION NMR,,P85177
+2KUK,Viola hederacea,SOLUTION NMR,,P85231
+2KUX,Oldenlandia affinis,SOLUTION NMR,,P58456
+2LQX,Fagopyrum esculentum,SOLUTION NMR,,NoUniprot
+2KSK,Saccharum officinarum,SOLUTION NMR,,F2Z241
+2MAL,Lens culinaris,SOLUTION NMR,,A0AT29
+1WUW,Hordeum vulgare,X-RAY DIFFRACTION,1.9,P21742
+2LR3,Medicago truncatula,SOLUTION NMR,,G7L736
+2N2Z,Anethum graveolens,SOLUTION NMR,,A0A0B4JDK1
+2MN1,Oldenlandia affinis,SOLUTION NMR,,P56254
+2N81,Pisum sativum,SOLUTION NMR,,A0A182DV18
+2MH1,Oldenlandia affinis,SOLUTION NMR,,P56254
+2V9B,Viscum album,X-RAY DIFFRACTION,1.05,P08943
+3PSM,Pachyrhizus erosus,X-RAY DIFFRACTION,0.98,Q6B519
+2PLH,Triticum aestivum,X-RAY DIFFRACTION,2.5,P01544
+2WGC,Triticum aestivum,X-RAY DIFFRACTION,2.2,P02876
+4XUW,Corylus avellana,X-RAY DIFFRACTION,1.1,Q9ATH2
+3C8P,Viscum album,X-RAY DIFFRACTION,1.25,D0VWT3
+4CQK,Nicotiana alata,X-RAY DIFFRACTION,1.6,Q8GTM0
+4UJ0,Solanum lycopersicum,X-RAY DIFFRACTION,1.7,Q40128
+5KK4,Nicotiana suaveolens x Nicotiana tabacum,X-RAY DIFFRACTION,1.7,C0HK49
+5XBD,Leuenbergeria bleo,SOLUTION NMR,,NoUniprot
+5E5T,Solanum tuberosum,X-RAY DIFFRACTION,1.57,Q948Z4
+5XDI,Gypsophila vaccaria,SOLUTION NMR,,NoUniprot
+5NCE,Pinus sylvestris,SOLUTION NMR,,A4L7R7
+4MPI,Hevea brasiliensis subsp. brasiliensis,X-RAY DIFFRACTION,1.6,Q8GUD7
+6DMZ,Zea mays,SOLUTION NMR,,B6SJE6
+6FRR,Artemisia vulgaris,X-RAY DIFFRACTION,1.95,C4MGG9
+5WUZ,Moringa oleifera,SOLUTION NMR,,A0A1S6EK91
+6VPN,Phaseolus vulgaris,SOLUTION NMR,,V7BTW4
+6IWO,Solanum melongena,X-RAY DIFFRACTION,2.35,A0A247D6Y2
+6LCQ,Oryza sativa,X-RAY DIFFRACTION,1.62,Q6K209
+6MRY,Nicotiana occidentalis,X-RAY DIFFRACTION,2.3,A0A4V8H030
+6WQJ,Cucumis sativus,SOLUTION NMR,,A0A0A0L4Q9
+6O3Q,Solanum lycopersicum,SOLUTION NMR,,B0JEU3
+7C2P,Elaeis guineensis,X-RAY DIFFRACTION,2.1,NoUniprot
+7C31,Vitis vinifera,X-RAY DIFFRACTION,1.3,F6HGI0
+7KSB,Actinidia chinensis var. chinensis,X-RAY DIFFRACTION,1.95,P85204
+7LNS,Pinus sylvestris,SOLUTION NMR,,A4L7R8
+7LVE,Juglans regia,SOLUTION NMR,,Q9SEW4
+6WQL,Cucurbita maxima,SOLUTION NMR,,Q9ZWI3
+7KSC,Punica granatum,X-RAY DIFFRACTION,2.4,A0A059STC4
+7UV1,Anacardium occidentale,SOLUTION NMR,,NoUniprot
+6O3S,Luffa aegyptiaca,SOLUTION NMR,,P56568
+7UV3,Pistacia vera,SOLUTION NMR,,B4X640
+7LVF,Juglans regia,SOLUTION NMR,,Q9SEW4
+7LVG,Juglans regia,SOLUTION NMR,,Q9SEW4
+7UV4,Pistacia vera,SOLUTION NMR,,B4X640
+7S55,Clitoria ternatea,SOLUTION NMR,,C0HKG2
+7S7P,Urtica ferox,SOLUTION NMR,,NoUniprot
+8HJD,Achyranthes bidentata,SOLUTION NMR,,NoUniprot
+7RMQ,Viola odorata,X-RAY DIFFRACTION,1.17,P58434
